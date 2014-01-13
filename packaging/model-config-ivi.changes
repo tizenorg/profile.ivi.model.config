@@ -1,0 +1,3 @@
+* Mon Jan 13 2014 Mikko Ylinen <mikko.ylinen@intel.com> 649170a
+- Clean up .spec file
+- Initialize model-config-ivi based on tizen_2.2 RD-PQ
